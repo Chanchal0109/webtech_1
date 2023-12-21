@@ -1,0 +1,113 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.mdiv{
+	height: 100vh;
+	width: 100%;
+	background-color: black;
+	position: relative;
+}
+.navbar{
+	height:17vh;
+	width: 100%;
+	background-color:black;
+	margin-top: 0px;
+	position: relative;
+	display: flex;
+}
+.search{
+	height: 40px;
+	width: 40px;
+	margin-top: 35px;
+	margin-left: 20px;
+	cursor: pointer;
+}
+.t1{
+	height: 100px;
+	width: 170px;
+	margin-left: 350px;
+}
+.tata{
+	height: 40px;
+	width: 40px;
+	margin-left: 50px;
+	margin-top: 30px;
+
+}
+input[type="button"]{
+	margin-left: 500px;
+	margin-top: 20px;
+	height: 80px;
+	width: 80px;
+	color: white;
+	background-color: black;
+	cursor: pointer;
+	border: 0px;
+}
+
+}
+.navbar ul{
+	display: flex;
+	margin-top: 35px;
+	margin-left: 300px;
+}
+.div2{
+	height: 15vh;
+	width: 100%;
+	background-color:black;
+    position:relative;
+    border-bottom: 2px ;
+    border-bottom-color: lightgrey;
+
+}
+.d1{
+	height: 1px;
+	width: 90%;
+	margin-left: 60px;
+	background-color: white;
+}
+.d2{
+	height: 29px;
+	width: 90%;
+	margin-left: 60px;
+	background-color:black;
+}
+.car{
+	black;font-size: 20px;
+	color: white;
+	margin-left: 40px;
+	font-family: sans-serif;
+	cursor: pointer;
+}
+.div3{
+	height: 95vh;
+	width: 100%;
+	background-color: black;
+}
+.a1{
+	font-size: 17px;
+	color: white;
+	font-family: sans-serif;
+	margin-left: 40px;
+
+}
+.a2{
+	font-size: 17px;
+	color: white;
+	font-family: sans-serif;
+	margin-left: 40px;
+	
+}
+.a3{
+	font-size: 17px;
+	color: white;
+	font-family: sans-serif;
+	margin-left: 40px;
+}
+.vid{
+	margin-left: 0px;
+	margin-right: 0px;
+    position: relative;
+}
